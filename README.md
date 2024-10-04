@@ -2,7 +2,7 @@
 
 ## Overview
 
-This API is a simple and efficient system designed to help users manage and track their personal expenses. It provides functionality to categorize expenses, filter them based on time ranges, and maintain a secure, user-specific database for personal finance management. This API serves as the backend for an expense tracking application, making it easy to integrate with various frontend systems.
+This API is an efficient system designed to help users manage and track their personal expenses. It provides functionality to categorize expenses, filter them based on time ranges, and maintain a secure, user-specific database for personal finance management. This API serves as the backend for an expense tracking application, making it easy to integrate with various frontend systems.
 
 ## Features
 
